@@ -61,7 +61,7 @@ function App() {
             tags={["React Native", "Node.js", "MongoDB", "Gemini"]}
             img="/images/fitlip.jpg"
             alt="Fitlip mobile app screenshot"
-            link="https://github.com/amansamani/fitlip-releases/releases/download/Create_new_tag_v1.0.0_on_publish/Fitlip.apk"
+            link="https://github.com/amansamani/fitlip-releases/releases/download/Create_new_tag_v1.0.0_on_publish/fitlip.apk"
             details={FITLIP_DETAILS}
           />
         </div>
